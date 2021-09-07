@@ -1,0 +1,219 @@
+2021-09-07 00:01:31,221 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 1816 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:01:31,224 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:01:31,228 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:01:36,012 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:01:36,012 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:01:36,026 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:04:18,489 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 14100 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:04:18,490 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:04:18,493 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:04:25,288 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.299 seconds (JVM running for 8.574)
+2021-09-07 00:04:25,657 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:04:25,657 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:04:25,672 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:13:40,800 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 1200 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:13:40,801 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:13:40,804 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:13:47,436 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:13:47,437 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:13:47,464 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:14:44,804 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 1520 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:14:44,805 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:14:44,810 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:14:50,392 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.072 seconds (JVM running for 7.32)
+2021-09-07 00:14:50,757 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:14:50,757 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:14:50,775 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:48:51,485 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16320 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:48:51,486 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:48:51,491 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:48:57,061 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.05 seconds (JVM running for 7.278)
+2021-09-07 00:48:57,385 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:48:57,387 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:48:57,405 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:51:39,449 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17036 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:51:39,452 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:51:39,460 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:51:45,915 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:51:45,916 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:51:45,943 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:52:29,167 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 7008 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:52:29,168 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:52:29,176 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:52:34,718 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.039 seconds (JVM running for 7.247)
+2021-09-07 00:52:35,161 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:52:35,162 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:52:35,176 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:57:37,192 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17200 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:57:37,204 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:57:37,210 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:57:41,933 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:57:41,933 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:57:41,946 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 00:58:18,078 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10944 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 00:58:18,079 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 00:58:18,082 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 00:58:23,601 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.01 seconds (JVM running for 7.251)
+2021-09-07 00:58:23,929 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 00:58:23,930 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 00:58:23,949 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 01:12:46,023 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 18556 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 01:12:46,023 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 01:12:46,025 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-07 01:12:51,633 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.089 seconds (JVM running for 7.296)
+2021-09-07 01:12:51,979 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-07 01:12:51,983 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-07 01:12:52,003 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-07 01:16:11,778 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13844 (C:\Users\muhammad\git\repository\Bloomberg\target\classes started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 01:16:11,779 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 01:16:11,779 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-07 01:16:44,239 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 18496 (C:\Users\muhammad\git\repository\Bloomberg\target\classes started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-07 01:16:44,240 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-07 01:16:44,240 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-07 01:16:49,027 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.362 seconds (JVM running for 6.544)
+2021-09-07 01:17:01,233 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 01:17:04,616 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 01:23:59,416 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 01:23:59,421 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 01:26:07,377 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 01:26:07,384 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 01:29:01,422 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 01:29:01,429 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 01:31:24,040 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 01:31:24,046 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 01:32:26,010 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 01:32:26,016 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 01:33:55,696 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 01:33:55,702 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 01:35:55,117 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 01:35:55,136 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 01:45:43,922 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 01:45:43,929 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 01:47:25,370 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 01:47:25,380 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 02:27:16,026 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 02:27:16,037 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 02:28:33,727 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 02:28:33,732 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 02:30:02,085 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 02:30:02,089 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 02:30:21,694 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 02:30:21,700 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 02:30:31,858 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 02:30:31,866 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 02:30:49,526 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 02:30:49,533 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 02:32:27,979 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 02:32:27,985 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 02:32:41,255 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 02:32:41,259 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 02:32:52,023 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 02:32:52,027 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 02:47:54,903 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 02:47:54,916 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 02:48:33,705 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 02:48:33,709 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 02:49:44,400 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 02:49:44,405 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 02:53:24,612 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 02:53:24,616 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 02:53:46,249 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 02:53:46,253 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 02:54:02,305 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 02:54:02,309 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 03:06:44,432 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 03:06:44,436 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 03:07:26,417 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 03:07:26,421 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 03:11:53,455 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 03:11:53,460 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 03:14:31,840 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 03:14:31,846 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 03:15:48,984 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 03:15:48,989 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 03:17:50,018 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 03:17:50,024 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 03:18:42,764 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 03:18:42,768 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 03:40:00,098 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 03:40:00,102 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 03:40:57,809 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 03:40:57,813 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 03:41:19,159 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 03:41:19,163 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 03:42:43,690 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 03:42:43,694 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 03:43:26,660 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 03:43:26,664 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 03:44:04,231 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 03:44:04,234 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 03:44:40,967 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 03:44:40,971 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 03:47:01,435 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 03:47:01,440 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 03:47:46,729 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 03:47:46,768 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 03:47:56,902 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 03:47:56,905 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 03:49:17,600 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 03:49:17,604 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 03:50:31,386 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 03:50:31,389 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 03:51:00,587 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 03:51:00,590 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 03:51:09,973 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 03:51:09,977 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 03:52:00,665 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 03:52:00,668 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 03:52:29,558 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 03:52:29,560 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 03:52:56,885 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 03:52:56,887 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 03:53:31,015 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 03:53:31,019 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 03:53:54,174 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 03:53:54,177 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 03:54:19,699 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 03:54:19,701 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 03:54:24,177 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 03:54:24,180 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 03:55:05,362 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 03:55:05,365 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 03:57:25,339 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 03:57:25,343 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 03:59:31,889 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 03:59:31,892 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 04:03:10,794 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 04:03:10,798 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 04:03:25,418 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 04:03:25,420 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 04:03:48,298 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 04:03:48,301 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 04:04:21,513 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 04:04:21,517 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-07 04:07:23,118 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-07 04:07:23,122 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-07 04:07:53,866 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 04:07:53,869 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 04:08:03,722 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-07 04:08:03,725 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-07 04:10:39,190 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 04:10:39,195 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 04:11:35,966 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-07 04:11:35,969 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-07 04:11:47,147 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 04:11:47,150 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 04:12:29,007 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-07 04:12:29,010 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-07 04:14:16,873 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-07 04:14:16,878 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-07 04:15:52,557 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-07 04:15:52,561 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] end calling getById
+2021-09-07 04:17:03,078 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-07 04:17:03,082 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] end calling getById
+2021-09-07 04:17:22,881 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-07 04:17:22,884 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-07 04:18:44,340 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-07 04:18:44,343 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-07 04:23:22,890 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-07 04:23:22,894 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById

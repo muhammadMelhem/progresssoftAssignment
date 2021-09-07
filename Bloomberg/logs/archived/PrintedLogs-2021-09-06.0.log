@@ -1,0 +1,297 @@
+2021-09-06 00:04:24,189 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 3948 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 00:04:24,192 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 00:04:24,194 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 00:04:30,157 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.495 seconds (JVM running for 8.165)
+2021-09-06 00:04:30,578 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 00:04:30,579 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 00:04:30,593 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Already saved
+2021-09-06 00:05:15,622 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 276 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 00:05:15,622 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 00:05:15,623 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 00:05:25,985 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 2868 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 00:05:25,986 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 00:05:26,012 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 00:05:31,864 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.4 seconds (JVM running for 8.015)
+2021-09-06 00:05:32,323 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 00:05:32,324 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 01:25:49,396 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 14760 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:25:49,397 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:25:49,399 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 01:25:55,604 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.777 seconds (JVM running for 9.026)
+2021-09-06 01:25:56,268 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 01:25:56,269 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 01:26:15,211 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 01:26:48,171 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13664 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:26:48,174 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:26:48,175 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 01:26:52,885 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.091 seconds (JVM running for 6.185)
+2021-09-06 01:26:53,201 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 01:26:53,202 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 01:26:53,212 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 01:36:42,655 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15280 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:36:42,656 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:36:42,656 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 01:36:47,308 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.16 seconds (JVM running for 6.36)
+2021-09-06 01:36:53,685 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling /save-new
+2021-09-06 01:36:53,686 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.02154448)
+2021-09-06 01:36:53,724 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling /save-new
+2021-09-06 01:40:58,937 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16692 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:40:58,937 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:40:58,937 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 01:41:03,534 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.111 seconds (JVM running for 6.243)
+2021-09-06 01:41:07,317 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] start calling getById
+2021-09-06 01:41:07,348 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-1] end calling getById
+2021-09-06 01:41:51,864 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-06 01:50:54,156 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10756 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:50:54,157 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:50:54,157 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 01:50:58,752 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.1 seconds (JVM running for 6.264)
+2021-09-06 01:52:19,065 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-06 01:52:19,110 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-06 01:52:44,676 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-06 01:52:44,679 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-06 01:53:52,445 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13108 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:53:52,445 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:53:52,446 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 01:53:57,066 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.113 seconds (JVM running for 6.258)
+2021-09-06 01:54:00,876 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-06 01:54:00,922 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] Deals Not Found
+2021-09-06 01:54:25,519 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-06 01:54:25,542 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-06 01:54:43,765 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13108 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 01:54:43,766 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 01:54:43,766 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 01:54:44,447 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.722 seconds (JVM running for 53.639)
+2021-09-06 02:06:29,475 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 4868 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:06:29,475 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:06:29,477 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:06:36,003 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.125 seconds (JVM running for 8.807)
+2021-09-06 02:06:36,480 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:06:40,778 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:06:45,974 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:07:22,668 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 02:07:22,672 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling getById
+2021-09-06 02:07:41,628 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 02:07:41,629 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling getById
+2021-09-06 02:08:07,126 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10192 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:08:07,127 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:08:07,129 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:08:13,414 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.83 seconds (JVM running for 8.486)
+2021-09-06 02:08:13,813 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:08:19,228 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:08:24,976 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:09:08,026 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 02:09:08,030 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling getById
+2021-09-06 02:09:44,686 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 02:09:44,687 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling getById
+2021-09-06 02:19:15,435 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 2264 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:19:15,436 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:19:15,442 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:19:21,803 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.892 seconds (JVM running for 8.61)
+2021-09-06 02:19:22,272 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:19:22,273 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:19:22,285 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:19:46,603 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13044 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:19:46,603 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:19:46,607 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:19:51,401 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.188 seconds (JVM running for 6.466)
+2021-09-06 02:19:51,705 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:19:51,706 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:19:51,725 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:20:47,229 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15204 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:20:47,230 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:20:47,232 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:20:51,905 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.062 seconds (JVM running for 6.343)
+2021-09-06 02:20:52,172 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:20:52,177 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:20:52,189 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:20:52,285 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:20:52,285 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=AED, tCurrencyISOCode=USD, amount=1200.210055)
+2021-09-06 02:20:52,286 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:21:52,187 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15772 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:21:52,188 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:21:52,189 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:21:56,887 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.081 seconds (JVM running for 6.309)
+2021-09-06 02:21:57,221 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:21:57,222 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:21:57,237 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:21:57,338 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:21:57,340 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=AED, tCurrencyISOCode=USD, amount=1200.210055)
+2021-09-06 02:21:57,343 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:22:05,405 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 4396 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:22:05,405 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:22:05,411 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:22:11,811 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.941 seconds (JVM running for 8.628)
+2021-09-06 02:22:12,243 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:22:12,244 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:22:12,257 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:22:28,006 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:22:28,006 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=AED, tCurrencyISOCode=USD, amount=1200.210055)
+2021-09-06 02:22:28,007 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:22:59,820 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 14148 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:22:59,821 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:22:59,825 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:23:06,649 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.412 seconds (JVM running for 9.228)
+2021-09-06 02:23:07,023 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:23:07,023 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:23:07,035 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:23:22,743 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:23:22,743 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=AED, tCurrencyISOCode=USD, amount=1200.210055)
+2021-09-06 02:23:22,744 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:23:38,039 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:23:38,039 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=AED, tCurrencyISOCode=USD, amount=1200.210055)
+2021-09-06 02:23:38,039 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:29:23,788 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 7408 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:29:23,789 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:29:23,794 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:29:30,225 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.036 seconds (JVM running for 8.81)
+2021-09-06 02:29:30,651 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:29:30,652 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:29:30,666 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:29:45,968 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 12128 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:29:45,969 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:29:45,978 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:29:50,856 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.279 seconds (JVM running for 6.57)
+2021-09-06 02:29:51,218 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:29:51,219 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:29:51,235 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:30:51,664 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15476 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:30:51,664 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:30:51,668 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:30:56,431 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.114 seconds (JVM running for 6.151)
+2021-09-06 02:30:56,694 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:30:56,694 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:30:56,707 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:31:12,593 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13052 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:31:12,594 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:31:12,597 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:31:19,038 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 6.935 seconds (JVM running for 8.648)
+2021-09-06 02:31:19,452 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:31:19,452 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:31:19,465 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:32:26,872 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 8784 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:32:26,872 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:32:26,873 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 02:32:31,508 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.133 seconds (JVM running for 6.257)
+2021-09-06 02:32:36,889 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-06 02:32:36,947 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-06 02:33:03,208 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling /save-new
+2021-09-06 02:33:03,208 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.02154448)
+2021-09-06 02:33:03,230 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] Deals Already saved
+2021-09-06 02:34:45,815 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15208 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 02:34:45,816 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 02:34:45,818 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 02:34:50,540 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.118 seconds (JVM running for 6.364)
+2021-09-06 02:34:50,810 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 02:34:50,814 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 02:34:50,830 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 02:34:50,915 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 02:34:50,917 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 13:03:47,944 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 1576 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-06 13:03:47,963 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 13:03:47,963 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 13:03:52,805 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.374 seconds (JVM running for 6.887)
+2021-09-06 13:03:59,942 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling /save-new
+2021-09-06 13:03:59,943 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.02154448)
+2021-09-06 13:03:59,994 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] Deals Already saved
+2021-09-06 13:05:31,005 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling /save-new
+2021-09-06 13:05:31,006 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=520.02154448)
+2021-09-06 13:05:31,008 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling /save-new
+2021-09-06 17:05:32,062 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 2824 (C:\Users\muhammad\git\repository\Bloomberg\target\classes started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 17:05:32,063 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 17:05:32,063 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 17:05:42,347 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 10.885 seconds (JVM running for 12.17)
+2021-09-06 17:24:47,298 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-06 17:24:47,368 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-06 17:25:57,501 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-06 17:25:57,506 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-06 17:26:42,430 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-06 17:26:42,433 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-06 17:27:19,612 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-06 17:27:19,615 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-06 17:28:20,643 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] start calling getById
+2021-09-06 17:28:20,648 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-7] end calling getById
+2021-09-06 18:32:52,193 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-06 18:32:52,200 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] end calling getById
+2021-09-06 18:33:29,228 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-06 18:33:29,233 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-06 18:34:50,960 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] start calling getById
+2021-09-06 18:34:50,964 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-3] end calling getById
+2021-09-06 18:53:53,926 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] start calling getById
+2021-09-06 18:53:53,931 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-5] end calling getById
+2021-09-06 18:54:35,720 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] start calling getById
+2021-09-06 18:54:35,723 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-6] Deals Not Found
+2021-09-06 19:00:51,918 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] start calling getById
+2021-09-06 19:00:51,924 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-8] Deals Not Found
+2021-09-06 19:00:59,474 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] start calling getById
+2021-09-06 19:00:59,477 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-9] Deals Not Found
+2021-09-06 19:01:03,923 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] start calling getById
+2021-09-06 19:01:03,937 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-10] end calling getById
+2021-09-06 19:08:31,227 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] start calling getById
+2021-09-06 19:08:31,233 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-2] end calling getById
+2021-09-06 19:09:49,391 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] start calling getById
+2021-09-06 19:09:49,397 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [http-nio-8080-exec-4] end calling getById
+2021-09-06 22:47:37,300 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 19232 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 22:47:37,301 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 22:47:37,303 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 22:47:42,787 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.943 seconds (JVM running for 7.133)
+2021-09-06 22:47:43,097 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 22:47:43,103 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 22:47:43,125 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 22:47:43,258 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 22:47:43,260 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 22:48:20,104 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13536 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 22:48:20,105 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 22:48:20,110 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 22:48:27,078 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.525 seconds (JVM running for 9.787)
+2021-09-06 22:48:27,474 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 22:48:27,475 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 22:48:27,490 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 22:48:27,584 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 22:48:27,586 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 22:51:09,629 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 21180 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 22:51:09,630 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 22:51:09,638 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 22:51:17,800 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 8.859 seconds (JVM running for 11.116)
+2021-09-06 22:51:18,292 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 22:51:18,293 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 22:51:18,310 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 22:51:18,428 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 22:51:18,430 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 22:51:54,264 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 22624 (C:\Users\muhammad\git\repository\Bloomberg\target\classes started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 22:51:54,265 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 22:51:54,265 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-06 22:51:59,293 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.6 seconds (JVM running for 6.977)
+2021-09-06 22:52:11,927 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 22992 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 22:52:11,933 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 22:52:11,938 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 22:52:20,243 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 8.952 seconds (JVM running for 11.184)
+2021-09-06 22:52:20,734 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 22:52:20,734 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 22:52:20,748 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 22:52:20,842 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 23:06:20,208 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 11144 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 23:06:20,209 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 23:06:20,210 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 23:06:26,815 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 7.047 seconds (JVM running for 8.267)
+2021-09-06 23:06:27,170 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 23:06:27,171 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 23:06:27,189 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 23:06:27,270 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 23:06:27,273 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 23:07:18,692 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 11672 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 23:07:18,692 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 23:07:18,694 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 23:07:23,863 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.613 seconds (JVM running for 6.879)
+2021-09-06 23:07:24,302 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 23:07:24,306 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 23:07:24,326 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new
+2021-09-06 23:07:24,427 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling getById
+2021-09-06 23:07:24,432 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] Deals Not Found
+2021-09-06 23:07:53,622 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 15092 (started by muhammad in C:\Users\muhammad\git\repository\Bloomberg)
+2021-09-06 23:07:53,624 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-06 23:07:53,626 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-06 23:07:58,717 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 5.65 seconds (JVM running for 6.913)
+2021-09-06 23:07:58,997 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] start calling /save-new
+2021-09-06 23:07:58,997 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] DealsWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=20.210055)
+2021-09-06 23:07:59,023 [INFO] com.progresssoft.Bloomberg.Controller.DealsController [main] end calling /save-new

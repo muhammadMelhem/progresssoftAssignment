@@ -1,0 +1,214 @@
+2021-09-04 02:12:20,262 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 14436 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:12:20,263 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:12:20,263 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:12:24,357 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.572 seconds (JVM running for 5.619)
+2021-09-04 02:13:48,821 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 14436 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:13:48,821 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:13:48,822 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:13:56,868 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16752 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:13:56,868 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:13:56,869 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:14:00,938 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.572 seconds (JVM running for 5.612)
+2021-09-04 02:16:09,104 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16752 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:16:09,104 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:16:09,104 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:16:09,723 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.658 seconds (JVM running for 134.397)
+2021-09-04 02:16:20,324 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 11852 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:16:20,324 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:16:20,324 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:16:24,388 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.546 seconds (JVM running for 5.599)
+2021-09-04 02:18:43,653 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 11852 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:18:43,653 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:18:43,653 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:18:44,311 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.717 seconds (JVM running for 145.522)
+2021-09-04 02:19:27,630 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10316 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:19:27,630 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:19:27,645 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-04 02:19:31,889 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Started BloombergApplicationTests in 4.649 seconds (JVM running for 5.668)
+2021-09-04 02:23:22,104 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17272 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:23:22,104 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:23:22,104 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:23:26,151 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.534 seconds (JVM running for 5.579)
+2021-09-04 02:26:51,086 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17272 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:26:51,086 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:26:51,086 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:26:51,725 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.676 seconds (JVM running for 211.153)
+2021-09-04 02:27:27,733 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17272 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:27:27,733 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:27:27,733 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:27:34,501 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16500 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:27:34,502 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:27:34,502 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:27:38,533 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.516 seconds (JVM running for 5.554)
+2021-09-04 02:28:19,607 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16500 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:28:19,607 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:28:19,607 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:28:23,921 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 12944 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:28:23,921 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:28:23,922 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:28:27,953 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.507 seconds (JVM running for 5.565)
+2021-09-04 02:31:03,128 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 9276 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:31:03,128 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:31:03,129 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:31:07,141 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.5 seconds (JVM running for 5.534)
+2021-09-04 02:32:20,460 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 9276 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:32:20,460 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:32:20,460 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:32:21,090 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.668 seconds (JVM running for 79.482)
+2021-09-04 02:32:34,061 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 02:32:34,061 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 02:32:34,061 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] end calling /save-new
+2021-09-04 02:37:57,011 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 5136 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:37:57,011 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:37:57,011 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:38:01,011 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.483 seconds (JVM running for 5.518)
+2021-09-04 02:38:11,891 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling /save-new
+2021-09-04 02:38:11,891 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 02:38:11,891 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling /save-new
+2021-09-04 02:39:10,249 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16488 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:39:10,249 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:39:10,249 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:39:14,856 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 5.08 seconds (JVM running for 6.112)
+2021-09-04 02:39:37,324 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 02:39:37,324 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 02:39:37,324 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] end calling /save-new
+2021-09-04 02:41:32,954 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 16488 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:41:32,955 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:41:32,955 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:41:33,648 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.732 seconds (JVM running for 144.905)
+2021-09-04 02:41:45,788 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 2804 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:41:45,789 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:41:45,789 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:41:49,846 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.537 seconds (JVM running for 5.589)
+2021-09-04 02:41:52,121 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling /save-new
+2021-09-04 02:41:52,121 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 02:41:52,121 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling /save-new
+2021-09-04 02:44:02,678 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 2804 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:44:02,678 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:44:02,678 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:44:03,287 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.648 seconds (JVM running for 139.031)
+2021-09-04 02:45:43,908 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 12392 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:45:43,908 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:45:43,909 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:45:47,965 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.544 seconds (JVM running for 5.579)
+2021-09-04 02:45:51,952 [ERROR] com.progresssoft.Bloomberg.exception.ParamExceptionsHandler [http-nio-8080-exec-1] Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.progresssoft.Bloomberg.Controller.CurrencyController.saveNew(com.progresssoft.Bloomberg.Wrapper.CurrencyTrxWrapper): [Field error in object 'currencyTrxWrapper' on field 'amount': rejected value [1025.0]; codes [CheckAmount.currencyTrxWrapper.amount,CheckAmount.amount,CheckAmount.java.lang.Double,CheckAmount]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [currencyTrxWrapper.amount,amount]; arguments []; default message [amount]]; default message [Amount Is Invalid]] 
+2021-09-04 02:56:42,570 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17212 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:56:42,571 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:56:42,571 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:56:46,617 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.527 seconds (JVM running for 5.678)
+2021-09-04 02:57:05,045 [ERROR] com.progresssoft.Bloomberg.exception.ParamExceptionsHandler [http-nio-8080-exec-2] [Ljava.lang.StackTraceElement;@173f9a21
+2021-09-04 02:59:28,890 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17212 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 02:59:28,890 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 02:59:28,890 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 02:59:29,519 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.666 seconds (JVM running for 168.581)
+2021-09-04 02:59:34,495 [ERROR] com.progresssoft.Bloomberg.exception.ParamExceptionsHandler [http-nio-8080-exec-2] Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.progresssoft.Bloomberg.Controller.CurrencyController.saveNew(com.progresssoft.Bloomberg.Wrapper.CurrencyTrxWrapper): [Field error in object 'currencyTrxWrapper' on field 'amount': rejected value [1025.0]; codes [CheckAmount.currencyTrxWrapper.amount,CheckAmount.amount,CheckAmount.java.lang.Double,CheckAmount]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [currencyTrxWrapper.amount,amount]; arguments []; default message [amount]]; default message [Amount Is Invalid]] 
+2021-09-04 03:00:12,620 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] start calling /save-new
+2021-09-04 03:00:12,621 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:00:12,621 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] end calling /save-new
+2021-09-04 03:00:23,174 [ERROR] com.progresssoft.Bloomberg.exception.ParamExceptionsHandler [http-nio-8080-exec-5] Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.progresssoft.Bloomberg.Controller.CurrencyController.saveNew(com.progresssoft.Bloomberg.Wrapper.CurrencyTrxWrapper): [Field error in object 'currencyTrxWrapper' on field 'fCurrencyISOCode': rejected value []; codes [NotBlank.currencyTrxWrapper.fCurrencyISOCode,NotBlank.fCurrencyISOCode,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [currencyTrxWrapper.fCurrencyISOCode,fCurrencyISOCode]; arguments []; default message [fCurrencyISOCode]]; default message [fCurrencyISOCode is mandatory]] 
+2021-09-04 03:04:34,025 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17212 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:04:34,025 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:04:34,025 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:04:38,869 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 9544 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:04:38,869 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:04:38,869 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:24:40,404 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Starting BloombergApplicationTests using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 18384 (started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:24:40,405 [DEBUG] com.progresssoft.Bloomberg.BloombergApplicationTests [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:24:40,406 [INFO] com.progresssoft.Bloomberg.BloombergApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-09-04 03:26:23,026 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17448 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:26:23,026 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:26:23,026 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:28:04,033 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17416 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:28:04,033 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:28:04,033 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:29:18,450 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10060 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:29:18,450 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:29:18,450 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:41:45,575 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 18116 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:41:45,576 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:41:45,576 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:46:54,070 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 8124 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:46:54,070 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:46:54,070 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:47:47,748 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 18144 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:47:47,749 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:47:47,749 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:47:51,904 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.651 seconds (JVM running for 5.701)
+2021-09-04 03:48:04,896 [ERROR] com.progresssoft.Bloomberg.exception.ParamExceptionsHandler [http-nio-8080-exec-1] Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.progresssoft.Bloomberg.Controller.CurrencyController.saveNew(com.progresssoft.Bloomberg.Wrapper.CurrencyTrxWrapper) throws java.lang.Exception: [Field error in object 'currencyTrxWrapper' on field 'fCurrencyISOCode': rejected value []; codes [NotBlank.currencyTrxWrapper.fCurrencyISOCode,NotBlank.fCurrencyISOCode,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [currencyTrxWrapper.fCurrencyISOCode,fCurrencyISOCode]; arguments []; default message [fCurrencyISOCode]]; default message [fCurrencyISOCode is mandatory]] 
+2021-09-04 03:48:16,235 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] start calling /save-new
+2021-09-04 03:48:16,236 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:50:16,165 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-6] start calling /save-new
+2021-09-04 03:50:16,165 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-6] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:50:16,169 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-6] end calling /save-new
+2021-09-04 03:50:23,909 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-7] start calling /save-new
+2021-09-04 03:50:23,909 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-7] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:51:07,588 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 260 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:51:07,589 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:51:07,589 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:51:11,944 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.836 seconds (JVM running for 5.934)
+2021-09-04 03:51:15,180 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 03:51:15,180 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:53:10,685 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 260 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:53:10,686 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:53:10,686 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:53:17,906 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 10064 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:53:17,907 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:53:17,907 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:53:22,164 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.746 seconds (JVM running for 5.799)
+2021-09-04 03:53:24,963 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 03:53:24,963 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:53:25,010 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] Deals Already saved
+2021-09-04 03:55:31,402 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13980 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 03:55:31,403 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 03:55:31,403 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 03:55:35,655 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 4.728 seconds (JVM running for 5.764)
+2021-09-04 03:55:38,165 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 03:55:38,165 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 03:55:38,211 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] Deals Already saved
+2021-09-04 21:00:16,593 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 8500 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 21:00:16,631 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 21:00:16,632 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 21:00:27,541 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 11.705 seconds (JVM running for 12.944)
+2021-09-04 21:01:00,143 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling /save-new
+2021-09-04 21:01:00,144 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] CurrencyTrxWrapper(fCurrencyISOCode=JOD, tCurrencyISOCode=USD, amount=1025.021544481)
+2021-09-04 21:01:00,231 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] Deals Already saved
+2021-09-04 21:02:12,613 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-6] start calling getById
+2021-09-04 21:02:12,673 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-6] end calling getById
+2021-09-04 21:02:54,554 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-8] start calling getById
+2021-09-04 21:03:12,228 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-8] end calling getById
+2021-09-04 22:10:28,426 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling getById
+2021-09-04 22:10:28,435 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling getById
+2021-09-04 22:11:44,689 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 3048 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 22:11:44,689 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 22:11:44,689 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 22:11:52,166 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 8.003 seconds (JVM running for 10.114)
+2021-09-04 22:13:15,240 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 7304 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 22:13:15,241 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 22:13:15,241 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 22:13:22,714 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 7.971 seconds (JVM running for 9.542)
+2021-09-04 22:13:28,906 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling getById
+2021-09-04 22:13:28,937 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling getById
+2021-09-04 22:13:44,762 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling getById
+2021-09-04 22:13:44,764 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] end calling getById
+2021-09-04 22:16:21,342 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 7304 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 22:16:21,342 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 22:16:21,343 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 22:16:21,999 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 0.696 seconds (JVM running for 188.827)
+2021-09-04 22:17:12,554 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 17628 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 22:17:12,555 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 22:17:12,555 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 22:17:20,149 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 8.184 seconds (JVM running for 10.183)
+2021-09-04 22:17:35,464 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling getById
+2021-09-04 22:17:35,494 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling getById
+2021-09-04 22:19:05,221 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] start calling getById
+2021-09-04 22:19:14,250 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-2] end calling getById
+2021-09-04 22:19:52,153 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-3] start calling getById
+2021-09-04 22:19:52,155 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-3] end calling getById
+2021-09-04 22:21:54,226 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] start calling getById
+2021-09-04 22:21:54,228 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-4] end calling getById
+2021-09-04 22:48:23,997 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Starting BloombergApplication using Java 1.8.0_281 on DESKTOP-5UQRJR4 with PID 13304 (E:\java room\java workspaces\Bloomberg\Bloomberg\target\classes started by muhammad in E:\java room\java workspaces\Bloomberg\Bloomberg)
+2021-09-04 22:48:23,998 [DEBUG] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-04 22:48:23,998 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-09-04 22:48:31,392 [INFO] com.progresssoft.Bloomberg.BloombergApplication [restartedMain] Started BloombergApplication in 7.886 seconds (JVM running for 9.245)
+2021-09-04 22:58:26,344 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] start calling getById
+2021-09-04 22:58:28,966 [INFO] com.progresssoft.Bloomberg.Controller.CurrencyController [http-nio-8080-exec-1] end calling getById
