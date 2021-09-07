@@ -1,0 +1,46 @@
+<div class="card my-5">
+    <div class="card-body">
+        <form (ngSubmit)="onSubmit()" #dealForm="ngForm">
+            <div class="form-group">
+                <label for="id">Deal ID</label>
+                <input type="text" [(ngModel)]="deal.id" class="form-control" id="id" name="id" placeholder="Enter Deal ID" required #name="ngModel">
+
+            </div>
+            <button type="submit" [disabled]="!dealForm.form.valid" class="btn btn-info">Submit</button>
+        </form>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">creation Date</th>
+                    <th scope="col">from currency</th>
+                    <th scope="col">to Currency</th>
+                    <th scope="col">amount</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        {{deal.id}}
+                    </td>
+                    <td>
+                        {{deal.creationDate}}
+                    </td>
+                    <td>
+                        {{deal.tCurrencyISOCode}}
+                    </td>
+                    <td>
+                        {{deal.tCurrencyISOCode}}
+                    </td>
+                    <td>
+                        {{deal.amount}}
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>
